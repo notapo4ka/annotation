@@ -1,0 +1,9 @@
+# Idea
+*.class
+*.iml
+*.xml
+.idea/
+out/
+
+# Logs
+logs/
